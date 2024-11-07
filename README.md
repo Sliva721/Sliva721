@@ -6,7 +6,7 @@
 
 
 - 👋 Hi, I’m Michael Slivin
-- 👀 I’m interested in ...
+- 👀 I like to travel and read books
 - 🌱 I’m currently learning C, C++
 - 💞️ I want to cooperate in the direction of studying and working in the C language
 - 📫 How to reach me ...
