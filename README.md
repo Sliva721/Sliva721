@@ -1,6 +1,6 @@
-<div id="header" align="center">                                                                    <div id="header" align="right">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>       <img src="https://stepik.org/certificate/7dd55ad98fdedc7951931e944f982b6b04a547e7.png?resolution=low" width="400"/>
-</div>                                                                                      </div>
+<div id="header" align="center">                                                                   
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>      
+</div>                                                                                    
                                                                                                             
   
 
