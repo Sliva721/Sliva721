@@ -10,9 +10,11 @@
 
 - 👋 Hi, I’m Michael Slivin
 - 👀 I like to travel and read books
-- 🌱 I’m currently learning C, C++
-- 💞️ I want to cooperate in the direction of studying and working in the C language
-- 📫 How to reach me ...
+- 🌱 I’m currently learning DevOps, Cybersecurity and C.
+- 💞️ I want to cooperate in exploring these areas.
+- 📫 How to reach me:
+         Tg: @Sliva721
+         e-mail: sliva721@ya.ru
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
